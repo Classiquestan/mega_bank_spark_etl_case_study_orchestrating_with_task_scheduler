@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="CXjvAbQbdhFuRRaNLxDe">
+    <mxGraphModel dx="1032" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EoM1FTpi9HbeAD4Ok2cq-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="380" width="800" x="30" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EoM1FTpi9HbeAD4Ok2cq-21" edge="1" parent="1" source="EoM1FTpi9HbeAD4Ok2cq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EoM1FTpi9HbeAD4Ok2cq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EoM1FTpi9HbeAD4Ok2cq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="130" x="80" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="EoM1FTpi9HbeAD4Ok2cq-2" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" value="" vertex="1">
+          <mxGeometry height="89.47" width="84.1" x="102.95" y="195.26" as="geometry" />
+        </mxCell>
+        <mxCell id="EoM1FTpi9HbeAD4Ok2cq-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Data Source" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EoM1FTpi9HbeAD4Ok2cq-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="220" width="260" x="330" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EoM1FTpi9HbeAD4Ok2cq-5" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" value="" vertex="1">
+          <mxGeometry height="120" width="90" x="700" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="EoM1FTpi9HbeAD4Ok2cq-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="postgres&lt;div&gt;database&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="720" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="EoM1FTpi9HbeAD4Ok2cq-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="csv file" vertex="1">
+          <mxGeometry height="30" width="60" x="115" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="EoM1FTpi9HbeAD4Ok2cq-8" parent="1" style="strokeColor=#dddddd;fillColor=#FFFFFF;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" value="" vertex="1">
+          <mxGeometry height="70" width="150" x="390" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="EoM1FTpi9HbeAD4Ok2cq-9" parent="EoM1FTpi9HbeAD4Ok2cq-8" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.scheduled_tasks;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" value="Scheduled&#xa;Tasks" vertex="1">
+          <mxGeometry height="32" relative="1" width="32" y="0.5" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EoM1FTpi9HbeAD4Ok2cq-19" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.schoolofit.co.za/wp-content/uploads/2023/09/PySpark-Courses.png;clipPath=inset(31.58% 15% 35.21% 15%);" value="" vertex="1">
+          <mxGeometry height="71.16" width="150" x="380" y="269.42" as="geometry" />
+        </mxCell>
+        <mxCell id="EoM1FTpi9HbeAD4Ok2cq-22" edge="1" parent="1" source="EoM1FTpi9HbeAD4Ok2cq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" target="EoM1FTpi9HbeAD4Ok2cq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EoM1FTpi9HbeAD4Ok2cq-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Data&amp;nbsp; &amp;nbsp;Architecture&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="340" x="280" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
