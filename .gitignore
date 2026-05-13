@@ -1,2 +1,3 @@
 # Files
 /dataset/rawdata/*.csv
+.venv
